@@ -1,5 +1,5 @@
 # mAadhar-Application
-** Problem statement:**
+**Problem statement:**
 Develop an application to automate the process of applying for an Aadhar Card by making it smoother for Indian citizens.
 
 **Scenario:**
@@ -8,7 +8,6 @@ Varniraj Service PVT. LTD is closely working with “The Government of India” 
 **Expected Deliverables:**
 
 **Features of the application:**
-
 -Registration
 -Login
 -Apply for a new Aadhar Card
@@ -19,9 +18,9 @@ Varniraj Service PVT. LTD is closely working with “The Government of India” 
  
 **Recommended technologies:**
 
- -Database: MySQL
- -Backend: Java Programming (Spring Boot, JPA, Hibernate)
- -Frontend: Angular, Bootstrap, and HTML/CSS
- -Automation and testing technologies: Selenium and TestNG      
- -DevOps tools/technologies: Git, GitHub, Jenkins, and Docker
- -Optional implementation: Kubernetes, AWS
+-Database: MySQL
+-Backend: Java Programming (Spring Boot, JPA, Hibernate)
+-Frontend: Angular, Bootstrap, and HTML/CSS
+-Automation and testing technologies: Selenium and TestNG      
+-DevOps tools/technologies: Git, GitHub, Jenkins, and Docker
+-Optional implementation: Kubernetes, AWS
