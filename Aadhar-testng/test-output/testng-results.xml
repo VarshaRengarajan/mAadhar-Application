@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39320" started-at="2022-10-20T14:53:13 IST" finished-at="2022-10-20T14:53:52 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39320" started-at="2022-10-20T14:53:13 IST" finished-at="2022-10-20T14:53:52 IST">
+      <class name="com.example.AadharUserTest">
+        <test-method status="PASS" signature="ChromeBrowser()[pri:0, instance:com.example.AadharUserTest@e320068]" name="ChromeBrowser" duration-ms="1471" started-at="2022-10-20T14:53:30 IST" finished-at="2022-10-20T14:53:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser -->
+        <test-method status="PASS" signature="UserCheck()[pri:0, instance:com.example.AadharUserTest@e320068]" name="UserCheck" duration-ms="11273" started-at="2022-10-20T14:53:31 IST" finished-at="2022-10-20T14:53:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCheck -->
+      </class> <!-- com.example.AadharUserTest -->
+      <class name="com.example.AadharRegisterTest">
+        <test-method status="PASS" signature="ChromeBrowser()[pri:0, instance:com.example.AadharRegisterTest@1f57539]" name="ChromeBrowser" duration-ms="1440" started-at="2022-10-20T14:53:43 IST" finished-at="2022-10-20T14:53:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser -->
+        <test-method status="PASS" signature="TestRegister()[pri:0, instance:com.example.AadharRegisterTest@1f57539]" name="TestRegister" duration-ms="8106" started-at="2022-10-20T14:53:44 IST" finished-at="2022-10-20T14:53:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRegister -->
+      </class> <!-- com.example.AadharRegisterTest -->
+      <class name="com.example.AadharAdminTest">
+        <test-method status="PASS" signature="ChromeBrowser()[pri:0, instance:com.example.AadharAdminTest@15d0c81b]" name="ChromeBrowser" duration-ms="2525" started-at="2022-10-20T14:53:13 IST" finished-at="2022-10-20T14:53:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser -->
+        <test-method status="PASS" signature="TestHome()[pri:0, instance:com.example.AadharAdminTest@15d0c81b]" name="TestHome" duration-ms="14448" started-at="2022-10-20T14:53:16 IST" finished-at="2022-10-20T14:53:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHome -->
+      </class> <!-- com.example.AadharAdminTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
